@@ -8,7 +8,7 @@
 // @include     http://s2.fourmizzz.fr/alliance.php?Membres*
 // @include     https://docs.google.com/forms/d/e/1FAIpQLSceDoWXUx5HTBeNu4nK0TUbNHvia98Rn9x6jLzDmV269u66-A/viewform
 // @include     https://docs.google.com/forms/d/e/1FAIpQLSceDoWXUx5HTBeNu4nK0TUbNHvia98Rn9x6jLzDmV269u66-A/formResponse
-// @version     5.1.1
+// @version     5.1.2
 // @grant       GM_getValue
 // @grant       GM_setValue
 // ==/UserScript==
