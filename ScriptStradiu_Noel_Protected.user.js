@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name        ScriptStradiu
 // @namespace   test
+// @author      Stradiu
 // @description script noel
+// @include     http://s2.fourmizzz.fr/Ressources.php
+// @include     http://s2.fourmizzz.fr/Membre.php?Pseudo=*
+// @include     http://s2.fourmizzz.fr/alliance.php?Membres*
 // @include     https://docs.google.com/forms/d/e/1FAIpQLSceDoWXUx5HTBeNu4nK0TUbNHvia98Rn9x6jLzDmV269u66-A/viewform
 // @include     https://docs.google.com/forms/d/e/1FAIpQLSceDoWXUx5HTBeNu4nK0TUbNHvia98Rn9x6jLzDmV269u66-A/formResponse
-// @include     http://s2.fourmizzz.fr/fourmiliere.php
-// @include     http://s2.fourmizzz.fr/alliance.php?Membres*
-// @include     http://s2.fourmizzz.fr/Membre.php?Pseudo=*
-// @include     http://s2.fourmizzz.fr/Ressources.php
 // @version     5.1.1
 // @grant       GM_getValue
 // @grant       GM_setValue
