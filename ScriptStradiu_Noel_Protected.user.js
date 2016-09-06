@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        ScriptStradiu_Obfuscatetest
+// @name        ScriptStradiu
 // @namespace   test
 // @author      Stradiu
 // @description script noel
