@@ -1,6 +1,6 @@
 
 // ==UserScript==
-// @name        ScriptStradiu_Obfuscatetest
+// @name        ScriptStradiu_Obfuscatetest2
 // @namespace   test
 // @description script noel
 // @include     https://docs.google.com/forms/d/e/1FAIpQLSceDoWXUx5HTBeNu4nK0TUbNHvia98Rn9x6jLzDmV269u66-A/viewform
